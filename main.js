@@ -3,8 +3,8 @@
 const LinksSocialMedia = {
   github: 'alinenog',
   youtube: 'rocketseat',
-  instagram: 'aline_noog10',
-  facebook: 'AlineNog10',
+  instagram: 'rocketseat_oficial',
+  facebook: 'rocketseat',
   twitter: 'rocketseat'
 }
 /*Criando a função*/
