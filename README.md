@@ -24,10 +24,10 @@ Crachá virtual confecionado para o evento DoWhile, o mesmo trás a facilidade d
 
 </br>
 
-## Como execultar o programa 
+## Como executar o programa 
 ```bash
 git clone git@github.com:alinenog/Cracha-Nlw.git
 
 ```
 ### Autora
-Aline Nogueira  👩‍💻
+Aline Nogueir@  👩‍💻
