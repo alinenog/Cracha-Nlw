@@ -1,8 +1,8 @@
 # 🚀 Crachá Virtual 
-
 ## Sobre o projeto
 💜 Meu primeiro projeto 💜 </br>
-Projeto criado durante o evento da NLW - Rockseat </br>
+Projeto criado durante o evento da NLW Heat, trilha Origin do Rockseat </br>
+
 <p>
 Crachá virtual confecionado para o evento DoWhile, o mesmo trás a facilidade de troca das redes sociais e avatar pelo javascript, sem a necessidade de refazer todo o projeto.
 </p>
