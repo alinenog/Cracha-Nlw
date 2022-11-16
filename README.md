@@ -29,5 +29,11 @@ Crachá virtual confecionado para o evento DoWhile, o mesmo trás a facilidade d
 git clone git@github.com:alinenog/Cracha-Nlw.git
 
 ```
+</br>
+✳️Link de acesso </br>
+https://alinenog.github.io/Cracha-Nlw/
+
+</br>
+
 ### Autora
 Aline Nogueir@  👩‍💻
